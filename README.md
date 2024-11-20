@@ -42,6 +42,7 @@ pip install -r requirements.txt
    jupyter notebook Country_Clustering_Analysis_An_Unsupervised__ML.ipynb
    ```
 4. Run the notebook step-by-step to replicate the analysis.
+![تحليل تجميع الدول](<cgqji4as.png>)
 
 ### Results
 - Countries are grouped into meaningful clusters based on the provided features.
